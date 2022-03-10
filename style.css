@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+
+.container{
+    margin: 25px auto;
+    /* background-color: green; */
+}
+
+.img{
+    width: 216px;
+    display: inline-block;
+}
+
+.imgs{
+    background-color: white;
+    height: 320px;
+    width: 246px;
+    padding: 10px;
+    text-align: center;
+}
+.info{
+    padding-top: 20px;
+}
+.info h5,p{
+    text-align: left;
+    line-height: 20px;
+}
+
+.rasm{
+    height: 100%;
+    object-fit: cover;
+    width: 216px;
+    height: 156px;
+}
